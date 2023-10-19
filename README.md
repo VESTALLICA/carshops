@@ -1,4 +1,4 @@
-# mc-nbchat
+# mc-carshops
 
 
 both mlos had missing textures when importing to FiveM as they were meant for mapeditor. this resource provides a fivem ready version with more additions.
