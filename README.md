@@ -10,13 +10,15 @@ jetty:
 
 coords: -1955.14, -335.46, 45.72
 
-![image](https://github.com/VESTALLICA/mc-carshops/assets/147888622/fbea9a0d-dd1e-493d-9926-7eb701620c1d)
+![image](![image](https://github.com/VESTALLICA/carshops/assets/147888622/df14066e-8dde-429e-af53-c112ccfbd26c)
+)
 
 galaxy:
 
 coords: -1167.17, -1686.58, 4.39
 
-![image](https://github.com/VESTALLICA/mc-carshops/assets/147888622/9d9185f9-0c18-4ea3-9e34-c0453c65920b)
+![image](![image](https://github.com/VESTALLICA/carshops/assets/147888622/e946a59f-7e00-484a-84e5-13a07e6c240f)
+)
 
 
 
