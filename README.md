@@ -38,4 +38,4 @@ galaxy: https://www.gta5-mods.com/maps/galaxy-garage-1-0
 
 jetty: https://www.gta5-mods.com/maps/luxury-car-dealership-from-silver
 
-support and dev discord: https://discord.gg/ktzjBM2MkZ
+more resources and support in the vL discord: https://discord.gg/GC6tWQAK8u
